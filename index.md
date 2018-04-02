@@ -1,3 +1,7 @@
+#### Notepad++ application - 2018-04-02
+Not vulnerable
+
+
 #### KeePass application - 2018-04-02
 Not vulnerable
 
@@ -10,11 +14,11 @@ Not vulnerable
 Not vulnerable
 
 
-#### Protonvpn template - 2018-04-02
+#### ProtonVPN template - 2018-04-02
 Host chain, challenges and attack vector to [ProtonVPN](/docs/protonvpn_20180402)
 
 
-#### Protonmail template - 2018-04-02
+#### ProtonMail template - 2018-04-02
 Host chain, challenges and attack vector to [ProtonMail](/docs/protonmail_20180402)
 
 
