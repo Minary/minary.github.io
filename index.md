@@ -2,23 +2,23 @@
 Host chain, challenges and attack vector to [Vuze bittorrent client](/docs/vuze_20180402)
 
 
-#### HeidiSQL application - 2018-04-02
+#### HeidiSQL 9.5.0.5196 application - 2018-04-02
 Not vulnerable
 
 
-#### Notepad++ application - 2018-04-02
+#### Notepad++ 7.5.6 application - 2018-04-02
 Not vulnerable
 
 
-#### KeePass application - 2018-04-02
+#### KeePass 2.38 (portable) application - 2018-04-02
 Not vulnerable
 
 
-#### Wireshark application - 2018-04-02
+#### Wireshark 2.4.5 application - 2018-04-02
 Not vulnerable
 
 
-#### Filezilla application - 2018-04-02
+#### Filezilla 3.31.0 application - 2018-04-02
 Not vulnerable
 
 
