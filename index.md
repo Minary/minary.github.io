@@ -1,3 +1,7 @@
+#### HeidiSQL application - 2018-04-02
+Not vulnerable
+
+
 #### Notepad++ application - 2018-04-02
 Not vulnerable
 
