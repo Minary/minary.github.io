@@ -12,8 +12,8 @@ Web browser
   
 ##### Primary attack vector
 
-DNS poisoning:CNAME
-HTTPS server
+DNS poisoning:CNAME   
+HTTPS server   
 
 ##### Template file
 Download link: [zalandoch_20180401.mry](/templates/zalandoch_20180401.mry)

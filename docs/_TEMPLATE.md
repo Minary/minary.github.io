@@ -16,14 +16,14 @@ Application
   
 ##### Primary attack vector
 
-DNS poisoning:A
-DNS poisoning:CNAME
+DNS poisoning:A  
+DNS poisoning:CNAME   
 
-HTTP server
-HTTPS server
+HTTP server   
+HTTPS server   
 
-HTTP reverse proxy
-HTTPS reverse proxy
+HTTP reverse proxy   
+HTTPS reverse proxy   
 
 ##### Template file
 Download link: [TARGET_DATE.mry](/templates/TARGET_DATE.mry)
