@@ -1,3 +1,7 @@
+#### Vuze bittorrent client 5.7.6.0 template - 2018-04-02
+Host chain, challenges and attack vector to [Vuze bittorrent client](/docs/vuze_20180402)
+
+
 #### HeidiSQL application - 2018-04-02
 Not vulnerable
 
