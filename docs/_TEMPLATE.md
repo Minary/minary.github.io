@@ -1,9 +1,11 @@
 #### TARGET template - 2018-##-##
 
 ##### Access type
-Web browser
-App
-Application
+Web browser/Mobile app/Desktop Application
+Operating system
+Version #.#.#
+
+##### Description
 
 ##### Host chain
   1. TARGET.com    &#8594;  HSTS:301:www.TARGET.com
